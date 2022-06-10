@@ -1,0 +1,40 @@
+item { 
+	name:'rendang'
+	id:1
+}
+item { 
+	name:'sate_madura'
+	id:2
+}
+item { 
+	name:'pempek'
+	id:3
+}
+item { 
+	name:'es_pisang_ijo'
+	id:4
+}
+item { 
+	name:'mie_aceh'
+	id:5
+}
+item { 
+	name:'gudeg'
+	id:6
+}
+item { 
+	name:'seblak'
+	id:7
+}
+item { 
+	name:'kerak_telor'
+	id:8
+}
+item { 
+	name:'ronde'
+	id:9
+}
+item { 
+	name:'bakso_malang'
+	id:10
+}
